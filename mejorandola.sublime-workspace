@@ -1,0 +1,328 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"i",
+				"item"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"d",
+				"director"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"mov",
+				"movie"
+			],
+			[
+				"re",
+				"res"
+			],
+			[
+				"mo",
+				"movie"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"p",
+				"params"
+			],
+			[
+				"m",
+				"movieName"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"s",
+				"style	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"r",
+				"require"
+			],
+			[
+				"movie",
+				"movieName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1713,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "estilos.css",
+			"settings":
+			{
+				"buffer_size": 2021,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/celestenorth/Documents/Kinnevo/innommersion/Innommersion.pod",
+		"/Users/celestenorth/paracosm/01.Rickroll/stylesheet.css",
+		"/Users/celestenorth/paracosm/01.Rickroll/readme.txt",
+		"/Users/celestenorth/paracosm/01.Rickroll/index.html",
+		"/Users/celestenorth/paracosm/rickroll/stylesheet.css",
+		"/Users/celestenorth/mejorandoweb/index.html",
+		"/Users/celestenorth/online_america/public/estilos.css",
+		"/Users/celestenorth/paracosm/rickroll/index.html",
+		"/Users/celestenorth/online_america/public/index.html",
+		"/private/var/folders/xp/z06pvntd0nxcfd8l6ct69pbm0000gn/T/7a32f630-9e83-407e-a010-fbcaf8b13abc/public_html/blog/wp-content/themes/Avada/css/all.css",
+		"/Users/celestenorth/#somosindie/somosindie.sublime-project",
+		"/Users/celestenorth/Documents/Kinnevo/Website/style.css",
+		"/Users/celestenorth/Documents/Kinnevo/Website/all.css",
+		"/Users/celestenorth/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<td>",
+			";\n",
+			"0.5",
+			"950",
+			"940",
+			"header",
+			"avada-row",
+			"940",
+			"max",
+			"share-box"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<td valign=\"top\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "estilos.css",
+					"settings":
+					{
+						"buffer_size": 2021,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true
+}
